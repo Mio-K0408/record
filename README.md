@@ -18,3 +18,6 @@
     
 ## ルール
 いったんは自分の負担にならない程度に緩くやる
+
+### 参考
+- [使える絵文字一覧](https://www.webfx.com/tools/emoji-cheat-sheet/)
